@@ -1,2 +1,4 @@
 Hi User
+<<<<<<< HEAD
 Change 1
+
