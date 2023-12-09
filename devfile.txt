@@ -1,9 +1,5 @@
 Hi User
-<<<<<<< HEAD
-<<<<<<< HEAD
-Change 1
-
-=======
 Change2
 Change3
->>>>>>> dev
+Change last
+
